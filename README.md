@@ -1,19 +1,17 @@
 # MU_RoboticsCourse
 
-# Just a simple describtion :)
-- this is a broject to control 6dof robot arm in matlab using forward and inverse 
-  	 kinematics 
-# The Process :(
-1 - I have designed the a 6dof robot arm in solidworks and I've choosen ABB_IRB_1200 model
-    	.You can find all files of solid in file called "SW_PARTS_and_ASSEMPLy", I think that
-     	was very clear and explain himself :)
-      
-2 - I imported the 3d model into matlap after I finished it.
+# Just a simple description :)
 
-3 - I made two matlap code one for forward kinematics and the other for inverse to control my 
-     	robot.
-      
-4 - I connected all my blocks and began to control it.
+This is a project to control a 6DOF robot arm in MATLAB using forward and inverse kinematics.
 
-# DON'T READ 
-Did you know that it’s funny that it takes you several days and a lot of effort to finish your project and then you come and summarize it in a few minutes?
+# The Process:
+
+1. I designed a 6DOF robot arm in SolidWorks, using the ABB_IRB_1200 model. You can find all the SolidWorks files in a folder called "SW_PARTS_and_ASSEMBLY." I believe the design is clear and self-explanatory.
+
+2. After finishing the design, I imported the 3D model into MATLAB.
+
+3. I created two MATLAB codes, one for forward kinematics and the other for inverse kinematics, to control the robot.
+
+4. I connected all the necessary blocks and started controlling the robot.
+
+
