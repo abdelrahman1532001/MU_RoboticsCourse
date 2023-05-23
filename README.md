@@ -16,9 +16,9 @@ Unlock precise control of the robot arm with two dedicated MATLAB codes—one fo
 ### ⚙️ Implementation:
 Witness the culmination of design, integration, and coding as all the necessary blocks come together within MATLAB, empowering practical control of the robot arm. Get hands-on with the implementation of the project!
 
-**Project Repository**: [GitHub Repository](https://github.com/abdelrahman1532001/MU_RoboticsCourse)
+📚 **Project Repository**: [GitHub Repository](https://github.com/abdelrahman1532001/MU_RoboticsCourse)
 
 Feel free to explore the repository for project documentation, source code, diagrams, and more details about the project.
 
-*Note: It's intriguing how a project that takes days or even weeks to complete can be summarized in a concise description. Nonetheless, this description provides an exciting overview of the project's objectives and key steps undertaken.*
+*Note: The project description has been created by ChatGpt :).*
 
