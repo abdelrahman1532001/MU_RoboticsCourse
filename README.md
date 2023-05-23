@@ -15,5 +15,4 @@
       
 4 - I connected all my blocks and began to control it.
 
-# You know that's funny when you waste many days and get tired until you finish you project
-# then you decribe it in a few minutes :(. I'm joking that's not funny at all :(....
+# Did you know that it’s funny that it takes you several days and a lot of effort to finish your project and then you come and summarize it in a few minutes?
