@@ -4,7 +4,7 @@
 
 This project focuses on controlling a 6DOF robot arm in MATLAB using forward and inverse kinematics. The following steps were undertaken to achieve the desired outcome:
 
-### [Design:](link:"SW_PARTS_and_ASSEMPLY") 
+### [Design:](link:(https://github.com/abdelrahman1532001/MU_RoboticsCourse/tree/main/SW_PARTS_and_ASSEMPLY)") 
 The robot arm was designed in SolidWorks, with the chosen model being ABB_IRB_1200. All the SolidWorks files, including the parts and assembly, can be found in the "SW_PARTS_and_ASSEMBLY" folder.
 
 ### Integration: 
